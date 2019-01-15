@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+'''
+REFERENCE:
+https://gist.github.com/patrickelectric/443645bb0fd6e71b34c504d20d475d5a
+'''
+
 import cv2
 import gi
 import numpy as np
